@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "my-spring-boot-admin-n-config-client-app"
+
+  cloud:
+    config:
+      uri:
