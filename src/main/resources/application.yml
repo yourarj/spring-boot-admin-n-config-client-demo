@@ -10,3 +10,9 @@ spring:
     admin:
       client:
         url:
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "refresh"
