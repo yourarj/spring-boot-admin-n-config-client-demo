@@ -5,3 +5,8 @@ spring:
   cloud:
     config:
       uri:
+
+  boot:
+    admin:
+      client:
+        url:
